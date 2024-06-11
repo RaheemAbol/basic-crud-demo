@@ -1,4 +1,3 @@
-Sure! Here are the consolidated steps for setting up the project locally after cloning it from GitHub:
 
 ### Steps to Set Up the Project
 
